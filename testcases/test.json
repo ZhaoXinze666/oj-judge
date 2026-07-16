@@ -4,5 +4,17 @@
     "expected_output": "3",
     "is_sample": true,
     "score": 10
+  },
+  {
+    "input": "1 2",
+    "expected_output": "3",
+    "is_sample": true,
+    "score": 10
+  },
+  {
+    "input": "3 7",
+    "expected_output": "10",
+    "is_sample": false,
+    "score": 10
   }
 ]
