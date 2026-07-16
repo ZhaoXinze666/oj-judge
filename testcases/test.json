@@ -34,5 +34,29 @@
     "expected_output": "1000",
     "is_sample": false,
     "score": 50
+  },
+  {
+    "input": "1 2",
+    "expected_output": "3",
+    "is_sample": true,
+    "score": 10
+  },
+  {
+    "input": "3 7",
+    "expected_output": "10",
+    "is_sample": false,
+    "score": 10
+  },
+  {
+    "input": "999 1",
+    "expected_output": "1000",
+    "is_sample": false,
+    "score": 50
+  },
+  {
+    "input": "111111 11111",
+    "expected_output": "122222",
+    "is_sample": false,
+    "score": 40
   }
 ]
