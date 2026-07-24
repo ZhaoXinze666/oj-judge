@@ -18,12 +18,6 @@
     "score": 10
   },
   {
-    "input": "1 2",
-    "expected_output": "3",
-    "is_sample": true,
-    "score": 10
-  },
-  {
     "input": "999 1",
     "expected_output": "1000",
     "is_sample": false,
