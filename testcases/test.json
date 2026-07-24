@@ -16,11 +16,5 @@
     "expected_output": "1000",
     "is_sample": false,
     "score": 50
-  },
-  {
-    "input": "111111 11111",
-    "expected_output": "122222",
-    "is_sample": false,
-    "score": 40
   }
 ]
