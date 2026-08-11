@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Dev-C++
+Exec=deepin-wine-builder deepinwine://Dev-Cpp_5.11_TDM-GCC_4.9.2_Setup.exef8beeb8638986b30314cd1611ca60a5c/158e5780-77a3-4e73-b3bc-9219cbf5ba29
+Type=Application
+Terminal=false
+Categories=Application;
+Icon=/home/user/.local/share/deepin-wine-bottles/bottles/Dev-Cpp_5.11_TDM-GCC_4.9.2_Setup.exef8beeb8638986b30314cd1611ca60a5c/icons/apps/devcpp.exe.png
+Comment=Launch Dev-C++
+StartupWMClass=Dev-C++
+StartupNotify=true
+NotShowIn=GNOME;Unity;KDE;Deepin;DDE;
